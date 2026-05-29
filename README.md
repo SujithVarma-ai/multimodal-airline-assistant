@@ -46,17 +46,6 @@ Run the application:
 python app.py
 ```
 
-## Project Structure
-
-```text
-flightai-voice-assistant/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
 ## How It Works
 
 1. User enters a travel-related query.
